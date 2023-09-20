@@ -6,5 +6,6 @@ The goal of this exercise was to break weak elliptic curves with weak configurat
 
 
 ![alt text](https://github.com/douglasbouchet/Hwk_crypto/blob/main/instruction/ex_part_0.png?raw=true)
+![alt text](https://github.com/douglasbouchet/Hwk_crypto/blob/main/instruction/ex_part_1.png?raw=true)
 
 
